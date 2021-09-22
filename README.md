@@ -1,7 +1,8 @@
 # Code_Quiz
 ## Description
 Code quiz for that tests your basic knowledge of what we've learned so far in bootcamp. 
-Go to: 
+
+Go to: [https://emthedm.github.io/Code_Quiz/](https://emthedm.github.io/Code_Quiz/)
 ## Usage
     ![gif of Quiz](assets/images/screenshot.png)
 ## License
