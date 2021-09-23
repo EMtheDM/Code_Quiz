@@ -4,7 +4,7 @@ Code quiz for that tests your basic knowledge of what we've learned so far in bo
 
 Go to: [https://emthedm.github.io/Code_Quiz/](https://emthedm.github.io/Code_Quiz/)
 ## Usage
-    ![gif of Quiz](assets/images/screenshot.png)
+    ![gif]](assets/images/Code_Quiz.gif)
 ## License
 MIT License
 
